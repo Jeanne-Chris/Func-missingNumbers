@@ -11,5 +11,6 @@ def missingNumbers(inputList):
     print("Missing series/numbers: ")
     return tempList
 
-mylist = [30, 27, 13, -3, 10, 26, 6, 9, 17, -1, 0]
+mylist = [30, 27, 18, 12, 10, 26, -3, 9, 15, -1, 0]
 print(missingNumbers(mylist))
+
